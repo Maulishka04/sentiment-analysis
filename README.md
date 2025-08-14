@@ -47,6 +47,7 @@ These files must be placed in the same folder as `app.py` for the Streamlit app 
 
 ## 🗂️ Repository Structure
 ├── app.py
+
 └── Sentiment Analysis.ipynb
 > Large files are excluded.
 
@@ -108,7 +109,7 @@ pip install streamlit pandas numpy scikit-learn xgboost joblib wordcloud matplot
 
 ### 3) Place artifacts at project root
 
-After generating from the notebook, ensure these files are in the same folder as `app.py:
+After generating from the notebook, ensure these files are in the same folder as `app.py`:
 ```pgsql
 cleaned_reviews.csv
 tfidf_vectorizer.pkl
