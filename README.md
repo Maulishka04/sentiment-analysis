@@ -127,7 +127,7 @@ streamlit run app.py
 
 ---
 
-##🧰 Requirements
+## 🧰 Requirements
 ```nginx
 streamlit
 pandas
@@ -141,6 +141,6 @@ matplotlib
 
 ---
 
-##🙌 Acknowledgements
+## 🙌 Acknowledgements
 Amazon Fine Food Reviews dataset (Kaggle)
 Scikit-learn, Streamlit, XGBoost, Matplotlib, WordCloud
